@@ -1,90 +1,70 @@
 # Modules 
-# Computer Science Modules
 
-## Year 1
+# Artificial Intelligence and Machine Learning Notes
 
-### Introduction to Programming
-- Basics of programming languages (Python, Java)
-- Control structures (loops, conditionals)
-- Functions and data types
+## Introduction to Artificial Intelligence
+- Definition of AI
+- History and evolution of AI
+- Types of AI: Narrow vs. General AI
+- Applications of AI in various fields (healthcare, finance, etc.)
 
-### Computer Science Fundamentals
-- History of computing
-- Overview of computer hardware and software
-- Introduction to algorithms and data structures
+## Machine Learning Basics
+- Definition of Machine Learning
+- Differences between AI, ML, and Deep Learning
+- Types of Machine Learning:
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
 
-### Mathematics for Computer Science
-- Discrete mathematics
-- Set theory and logic
-- Functions and relations
+## Supervised Learning
+- Definition and examples
+- Common algorithms:
+  - Linear Regression
+  - Decision Trees
+  - Support Vector Machines
+  - Neural Networks
+- Evaluation metrics (accuracy, precision, recall, F1-score)
 
-### Web Development
-- HTML, CSS, and JavaScript
-- Front-end vs back-end development
-- Basic web application development
+## Unsupervised Learning
+- Definition and examples
+- Common algorithms:
+  - K-Means Clustering
+  - Hierarchical Clustering
+  - Principal Component Analysis (PCA)
+- Applications (market segmentation, anomaly detection)
 
-## Year 2
+## Reinforcement Learning
+- Definition and concepts (agent, environment, rewards)
+- Key algorithms:
+  - Q-Learning
+  - Deep Q-Networks (DQN)
+- Applications (game playing, robotics)
 
-### Data Structures and Algorithms
-- Arrays, linked lists, stacks, queues
-- Trees, graphs, and hash tables
-- Algorithm analysis and complexity
+## Neural Networks and Deep Learning
+- Introduction to neural networks
+- Structure of a neuron and layers (input, hidden, output)
+- Activation functions (ReLU, Sigmoid, Softmax)
+- Backpropagation and training process
+- Common architectures (Convolutional Neural Networks, Recurrent Neural Networks)
 
-### Database Systems
-- Introduction to databases
-- SQL and relational database design
-- Normalization and transactions
+## Natural Language Processing (NLP)
+- Overview of NLP
+- Text preprocessing techniques (tokenization, stemming, lemmatization)
+- Common algorithms (Bag of Words, TF-IDF)
+- Applications (chatbots, sentiment analysis, machine translation)
 
-### Operating Systems
-- Process management and scheduling
-- Memory management
-- File systems and I/O
+## Model Evaluation and Selection
+- Train-test split and cross-validation
+- Overfitting vs. underfitting
+- Hyperparameter tuning
+- Importance of feature selection and engineering
 
-### Software Engineering
-- Software development lifecycle
-- Agile methodologies
-- Version control systems (e.g., Git)
+## Tools and Libraries
+- Overview of popular libraries (TensorFlow, PyTorch, Scikit-Learn)
+- Introduction to Jupyter Notebooks for experimentation
+- Data manipulation libraries (Pandas, NumPy)
 
-## Year 3
-
-### Computer Networks
-- Network architecture and protocols
-- TCP/IP model and OSI layers
-- Network security basics
-
-### Artificial Intelligence
-- Introduction to AI concepts
-- Machine learning basics
-- Natural language processing
-
-### Web Technologies
-- Advanced JavaScript frameworks (e.g., React, Angular)
-- RESTful services and APIs
-- Deployment and DevOps concepts
-
-### Capstone Project
-- Group project integrating various CS concepts
-- Emphasis on problem-solving and teamwork
-- Presentation and documentation of the project
-
-## Optional Modules
-
-### Mobile Application Development
-- Android/iOS development basics
-- User interface design
-- App deployment and maintenance
-
-### Cybersecurity
-- Security principles and practices
-- Ethical hacking and penetration testing
-- Cryptography basics
-
-### Game Development
-- Game design principles
-- Game engines (e.g., Unity, Unreal Engine)
-- 2D and 3D graphics programming
-
-### Cloud Computing
-- Cloud service models (IaaS, PaaS, SaaS)
-- Cloud architecture and deployment
-- Security and compliance in the cloud
+## Ethics in AI
+- Importance of ethical considerations in AI
+- Bias in AI models
+- Privacy and data security concerns
